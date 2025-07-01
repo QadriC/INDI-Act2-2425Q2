@@ -25,21 +25,18 @@ The project features camera control, model rendering, animation, and GUI interac
 | Rotate view (free camera)  | Left-click + Mouse drag |
 
 ## 🧱 Project Structure
-
+```
 INDI-Act2-2425Q2/
 ├── Statement.pdf
-|
 ├── Model/
-|   ├── model.cpp
-|   └── model.h
-|
+│   ├── model.cpp
+│   └── model.h
 ├── models/
-|   ├── Rick.mtl
-|   └── VideoCamera.mtl
+│   ├── Rick.mtl
+│   └── VideoCamera.mtl
 ├── shaders/
-|   ├── basicShader.frag
-|   └── basicShader.vert
-|
+│   ├── basicShader.frag
+│   └── basicShader.vert
 ├── MyGLWidget.cpp
 ├── MyGLWidget.h
 ├── BL2GLWidget.cpp
@@ -49,12 +46,11 @@ INDI-Act2-2425Q2/
 ├── MyForm.h
 ├── MyForm.ui
 ├── Exercici-2.pro
-|
 ├── README.md
-|
 └── media/
     ├── screenshot.png
     └── demo.gif
+```
 
 ## 🖥 Requirements
 
