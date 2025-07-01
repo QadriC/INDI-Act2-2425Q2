@@ -26,29 +26,7 @@ The project features camera control, model rendering, animation, and GUI interac
 
 ## 🧱 Project Structure
 
-INDI-Act2-2425Q2/
-│
-├── Statement.pdf         # Assignment brief and project requirements
-|
-├── Model/                # Custom model logic
-├── models/               # 3D model files (Rick, camera, etc.)
-├── shaders/              # Vertex & fragment shaders
-|
-├── MyGLWidget.cpp
-├── MyGLWidget.h
-├── BL2GLWidget.cpp
-├── BL2GLWidget.h
-├── main.cpp
-├── MyForm.cpp
-├── MyForm.h
-├── MyForm.ui
-│
-├── Exercici-2.pro        # Qt project file
-├── README.md             # Project documentation
-└── media/                # Screenshot and demo gif
-    ├── screenshot.png
-    └── demo.gif
-
+<pre><code>📁 INDI-Act2-2425Q2/ ├── 📄 Statement.pdf — Assignment brief and project requirements │ ├── 📁 Model/ — Custom model logic ├── 📁 models/ — 3D model files (Rick, camera, etc.) ├── 📁 shaders/ — Vertex & fragment shaders │ ├── 📄 MyGLWidget.cpp ├── 📄 MyGLWidget.h ├── 📄 BL2GLWidget.cpp ├── 📄 BL2GLWidget.h ├── 📄 main.cpp ├── 📄 MyForm.cpp ├── 📄 MyForm.h ├── 📄 MyForm.ui │ ├── 📄 Exercici-2.pro — Qt project file ├── 📄 README.md — Project documentation │ └── 📁 media/ — Screenshots and demo gifs ├── 📷 screenshot.png └── 🎞️ demo.gif </code></pre>
 
 ## 🖥 Requirements
 
