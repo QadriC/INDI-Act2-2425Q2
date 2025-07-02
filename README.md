@@ -70,4 +70,5 @@ Developed as part of:
 **INDI - Interacció i disseny d'interfícies**  
 Degree: Computer Science  
 University: Escola Politècnica Superior d'Enginyeria de Vilanova i la Geltrú (EPSEVG - UPC)  
-Course term: **2024–2025 Q2**
+Course term: **2024–2025 Q2**  
+Mark: 10
